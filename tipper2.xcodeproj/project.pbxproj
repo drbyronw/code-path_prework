@@ -196,7 +196,6 @@
 				TargetAttributes = {
 					91D7E8BC1D94C997006D1FC4 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = HU42WP667T;
 						ProvisioningStyle = Automatic;
 					};
 					91D7E8D01D94C997006D1FC4 = {
@@ -417,7 +416,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = HU42WP667T;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = tipper2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.bjw.tipper2;
@@ -430,7 +429,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = HU42WP667T;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = tipper2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.bjw.tipper2;
@@ -516,6 +515,7 @@
 				91D7E8E71D94C997006D1FC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		91D7E8E81D94C997006D1FC4 /* Build configuration list for PBXNativeTarget "tipper2Tests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +524,7 @@
 				91D7E8EA1D94C997006D1FC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		91D7E8EB1D94C997006D1FC4 /* Build configuration list for PBXNativeTarget "tipper2UITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +533,7 @@
 				91D7E8ED1D94C997006D1FC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
